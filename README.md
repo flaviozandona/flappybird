@@ -1,2 +1,2 @@
 # flappybird
- Projeto de jogo - estudo
+ Projeto de estudo - Jogo Flappy Bird
