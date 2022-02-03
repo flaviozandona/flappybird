@@ -3,7 +3,7 @@ import os
 import random
 
 TELA_LARGURA = 500
-TELA_ALTURA = 800
+TELA_ALTURA = 700
 
 IMAGEM_CANO = pygame.transform.scale2x(pygame.image.load(os.path.join('imgs', 'pipe.png')))
 IMAGEM_CHAO = pygame.transform.scale2x(pygame.image.load(os.path.join('imgs', 'base.png')))
